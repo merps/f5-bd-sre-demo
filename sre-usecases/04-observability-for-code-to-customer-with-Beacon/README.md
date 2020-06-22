@@ -1,6 +1,6 @@
 # F5 Beacon SRE Demo
 
-[![license](https://img.shields.io/github/license/:merps/:f5-ts-sumo.svg)](LICENSE)
+[![license](https://img.shields.io/github/license/:merps/:f5-bd-sre-demo/sre-usecases/04-observability-for-code-to-customer-with-Beacon.svg)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 This document covers the initial setup and configuration of the SRE Demo as demonstrated on the most recent webinar.
