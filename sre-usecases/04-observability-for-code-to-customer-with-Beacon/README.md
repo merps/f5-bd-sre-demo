@@ -151,7 +151,7 @@ As previously, steps to configure;
 
 1. Update TS declarations as this example;
 
-```
+```json
 {
     "class": "Telemetry",
     "TS_System": {
