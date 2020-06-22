@@ -220,10 +220,7 @@ As previously, steps to configure;
         ],
         "passphrase":{ 
             "cipherText":"a-aacnmyWgmu#C9zyugUVIZ4ywhhGSKh2o5BoZ3g12ZB1GJdhvW2yOIU="
-        }
     }
-    "schemaVersion": "1.6.0"    
-}: "1.6.0" 
 }
 ```
 3. Push updated TS declaration to BIG-IP.
